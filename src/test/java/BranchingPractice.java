@@ -6,7 +6,7 @@ public class BranchingPractice {
         //enabled version control
         //added .gitignore with .idea, target folder and .iml file
         //made initial commit by keeping track of all files
-        //shared project on github
+        //shared project on GitHub
 
         //reviewing on new branch
         //doing more review on branch
